@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <news>
-    <article>
-        <title>Test Latest</title>
-        <url>https://raw.githubusercontent.com/ilexl/AXT-Public/refs/heads/main/Posts/0001-Article.xml</url>
-    </article>
-
-    <article>
-        <title>Test Working?</title>
-        <url>https://raw.githubusercontent.com/ilexl/AXT-Public/refs/heads/main/Posts/0001-Article.xml</url>
-    </article>
-
-    <article>
-        <title>Test 3</title>
-        <url>https://raw.githubusercontent.com/ilexl/AXT-Public/refs/heads/main/Posts/0001-Article.xml</url>
-    </article>
-
-    <article>
-        <title>Test 2</title>
-        <url>https://raw.githubusercontent.com/ilexl/AXT-Public/refs/heads/main/Posts/0001-Article.xml</url>
-    </article>
+    <!-- Place newest articles at the top to ensure order is correct -->
 
     <article>
         <title>Our First Article</title>
