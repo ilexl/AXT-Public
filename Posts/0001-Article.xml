@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article>
+    <title>Testing the New Website News System</title>
+    <date>26 May 2026</date>
+    <author>AXT</author>
+    <image></image>
+
+    <content><![CDATA[
+# Testing the News System
+
+This article exists purely as a test.
+
+The new AXT website now supports loading news articles from external XML files, which means content can be added without touching the main codebase. This is one of those features that sounds simple but feels very impressive when it actually works.
+
+---
+
+## What Is Being Tested
+
+This article is being used to confirm that:
+
+- Articles can be loaded from GitHub
+- Markdown formatting renders correctly
+- The system does not immediately break for unknown reasons
+
+So far, all systems appear to be functional, which is a promising sign.
+
+---
+
+## Conclusion
+
+If you are reading this, the system is working.
+
+If you are not reading this, something has gone very wrong.
+
+Either way, progress continues.
+
+]]></content>
+</article>
